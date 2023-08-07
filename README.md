@@ -2,10 +2,9 @@
 
 - 🔭 Currently I'm still studying at the UAGRM university
 - 🌱 I’m currently learning React/Angular & Flutter
-- 👯 I’m looking to collaborate on any project xd
-- 🤔 I’m looking for help with ... I don't know xd
+- 👯 I'm looking to collaborate on some project
+- 🤔 I’m looking for help with React/Angular & Flutter
 - 💬 Ask me about Framework Laravel & Java
-- 📫 How to reach me: On the left I leave that information xd
 - ⚡ Fun fact: Nothing xd
 
 ### Skills
