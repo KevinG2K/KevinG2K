@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 Currently I'm still studying at the UAGRM university
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning React
 - 👯 I'm looking to collaborate on some project
-- 🤔 I’m looking for help with Flutter
+- 🤔 I’m looking for help with React
 - 💬 Ask me about Framework Laravel & Java
 - ⚡ Fun fact: Nothing xd
 
